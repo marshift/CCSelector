@@ -1,0 +1,6 @@
+{
+    "name": "cc-selector",
+    "description": "a bootscreen for crosscode, vaguely inspired by cc-bootscreen",
+    "author": "marshift",
+    "license": "BSD-3-Clause"
+}

@@ -1,0 +1,17 @@
+@import url("https://marshift.github.io/murky/out.css");
+
+body {
+    max-width: 720px;
+    margin: 0 auto;
+}
+
+footer {
+    text-align: center;
+    margin-top: 0.5rem;
+}
+
+.button-group {
+    display: flex;
+    flex-direction: row;
+    gap: 0.5rem;
+}
